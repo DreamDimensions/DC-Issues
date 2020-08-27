@@ -9,4 +9,4 @@
  * Report client-sided errors
  * Try to apeal bans
  * Report Skyblock Issues, report it [here](https://github.com/DreamDimensions/SK-Issues)
-## WE WILL IGNORE ANYBODY THAT SH**POSTS OR PUTS ANYTHING ON THE DON'TS
+## WE WILL IGNORE ANYBODY THAT SH**POSTS OR POSTS ANYTHING ON THE DON'TS
