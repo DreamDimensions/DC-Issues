@@ -3,7 +3,7 @@
 ## Does and Don'ts
 # Do
  * Report bugs
- * Report not blocked mods/clients
+ * Report mods/clients that are not blocked
  * Report hacks that don't get detected by DreamCatcher
 # Don't
  * Report connection errors
